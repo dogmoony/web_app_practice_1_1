@@ -80,7 +80,7 @@ Qʰⁿ = ((Qᵣⁿ + 0.025·Wᵖ) · 100) / (100 − Wᵖ − Aᵖ)
 - net/http
 - html/template
 - CSS
-- JavaScript (кнопка Variant 5)
+- JavaScript (кнопка Варіант №5)
 
 ---
 
